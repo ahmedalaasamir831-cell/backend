@@ -83,8 +83,8 @@ A full-stack enterprise system that connects:
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: (add your link)
+- 📧 Email: ahmedalaasamir831@gmail.com
+- 💼freelanceyard: https://freelanceyard.com/ar/account/profile
 - 🐙 GitHub: https://github.com/ahmedalaasamir831-cell
 
 ---
